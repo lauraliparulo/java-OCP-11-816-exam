@@ -26,3 +26,4 @@ http://openjdk.java.net/projects/jigsaw/spec/sotms/#services
 https://docs.oracle.com/javase/tutorial/java/generics/restrictions.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html
+https://www.oracle.com/technetwork/java/seccodeguide-139067.html#6
