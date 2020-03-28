@@ -58,5 +58,12 @@ public class Person {
 		this.state = state;
 	}
 
+	@Override
+	public String toString() {
+		return "Person [firstName=" + firstName + ", lastName=" + lastName + ", city=" + city + ", age=" + age
+				+ ", state=" + state + "]";
+	}
+
+	
 	
 }

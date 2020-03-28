@@ -23,7 +23,6 @@ public class TestWithStreamSupplier {
 
 		Supplier<Stream<Person>> streamSupplier = () -> Stream.of(p1, p2, p3, p4, p5, p6);
 		
-	
 
 		Map<String, List<Person>> peopleByState = streamSupplier.get().collect(Collectors.groupingBy(Person::getState));
 

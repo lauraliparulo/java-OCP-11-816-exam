@@ -10,7 +10,10 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - Collectors
 - Stream
 - ExecutorService
+- Path && Paths
+- Filr
 
 ### Online documentation
 https://docs.oracle.com/en/java/javase/11/
 https://docs.oracle.com/javase/specs/jls/se11/html/index.html
+
