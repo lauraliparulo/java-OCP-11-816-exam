@@ -1,4 +1,4 @@
-package de.demo.streams;
+package de.demo.streams.collectors;
 
 public class Person {
 

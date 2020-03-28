@@ -1,4 +1,4 @@
-package de.demo.streams;
+package de.demo.streams.collectors;
 
 import java.util.List;
 import java.util.Map;

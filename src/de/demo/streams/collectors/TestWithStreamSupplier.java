@@ -1,4 +1,4 @@
-package de.demo.streams;
+package de.demo.streams.collectors;
 
 import java.util.List;
 import java.util.Map;
@@ -6,8 +6,6 @@ import java.util.function.Supplier;
 import java.util.function.ToDoubleFunction;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-import de.demo.streams.Person;
 
 public class TestWithStreamSupplier {
 
