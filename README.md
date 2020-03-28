@@ -14,3 +14,4 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 ### Online documentation
 https://docs.oracle.com/en/java/javase/11/
 https://docs.oracle.com/javase/specs/jls/se11/html/index.html
+http://openjdk.java.net/projects/jigsaw/spec/sotms/#services
