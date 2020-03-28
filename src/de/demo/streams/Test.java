@@ -1,5 +1,6 @@
 package de.demo.streams;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
@@ -23,5 +24,13 @@ public class Test {
 				System.out.println(i);
 		}).forEach( i -> System.out.println("element : "+i));
 		//forEach is a terminaal operation
+		
+		
+		List<Integer> list2 = new ArrayList<>();
+		list2.add(1);
+		list2.add(2);
+		list2.stream().forEach( i -> list.add(i++));
+		//Throws UnsupportedOperationException as the list cannot be modified from the stream
+		
 	}
 }
