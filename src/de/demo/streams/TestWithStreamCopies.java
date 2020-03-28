@@ -1,4 +1,4 @@
-package demo.streams.and.collectors_1;
+package de.demo.streams;
 
 import java.util.List;
 import java.util.Map;
@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 public class TestWithStreamCopies {
 
 	public static void main(String[] args) {
-
+		
 		Person p1 = new Person("laura", "liparulo", "frankfurt", "Hessen", 36);
 		Person p2 = new Person("christine", "müller", "frankfurt", "Hessen", 42);
 		Person p3 = new Person("anna", "müller", "Darmstadt", "Hessen", 42);
@@ -37,5 +37,7 @@ public class TestWithStreamCopies {
 
 		});
 
+		
+		
 	}
 }
