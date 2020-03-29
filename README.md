@@ -37,3 +37,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurren
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html#merge(K,V,java.util.function.BiFunction)
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
+https://www.oracle.com/technetwork/java/seccodeguide-139067.html#4
