@@ -35,3 +35,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/Connection.
 https://docs.oracle.com/javase/tutorial/jdbc/basics/processingsqlstatements.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/ExecutorService.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html#merge(K,V,java.util.function.BiFunction)
+https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
