@@ -25,6 +25,7 @@ public class TestWithCallable {
 
 		var result = service.invokeAll(List.of(task1,task2,task3));
 		System.out.println(result.get(0).get());
+		
 		service.shutdown();
 	}
 }
