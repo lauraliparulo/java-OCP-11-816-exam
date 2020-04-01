@@ -40,3 +40,5 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
 https://www.oracle.com/technetwork/java/seccodeguide-139067.html#4
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeSet.html#higher(E)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CyclicBarrier.html
+https://docs.oracle.com/javase/specs/jls/se11/html/jls-15.html#jls-15.27
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html#forEach(java.util.function.BiConsumer)
