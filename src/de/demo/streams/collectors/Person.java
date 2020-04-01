@@ -2,19 +2,24 @@ package de.demo.streams.collectors;
 
 public class Person {
 
-	private String firstName;
+	public String firstName;
 	private String lastName;
 	private String city;
-	private int age;
+	public int age;
 	private String state;
 	
-	public Person(String firstName, String lastName, String city, String state, int age) {
-		super();
+	public Person(String firstName,  int age) {
+//		super();
 		this.firstName = firstName;
+		this.age = age;
+
+	}
+	
+	public Person(String firstName, String lastName, String city, String state, int age) {
+		this(firstName,age);
 		this.lastName = lastName;
 		this.city = city;		
 		this.state = state;
-		this.age = age;
 
 	}
 
