@@ -59,4 +59,5 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collectio
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/Function.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/Supplier.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/IntStream.html#sum()
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Collectors.html#counting()
 
