@@ -53,3 +53,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.h
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#walk(java.nio.file.Path,java.nio.file.FileVisitOption...)
 https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#reduce(T,java.util.function.BinaryOperator)
+https://docs.oracle.com/javase/specs/jls/se11/html/jls-7.html#jls-7.7.4
