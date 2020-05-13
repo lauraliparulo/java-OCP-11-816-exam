@@ -64,3 +64,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Assertion
 https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-15.html#jls-15.27
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/package-summary.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Console.html
