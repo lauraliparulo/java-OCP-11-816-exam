@@ -16,6 +16,7 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - Path && Paths
 - File
 - Collections: Deque
+- jdeps
 
 ### Online documentation
 https://docs.oracle.com/en/java/javase/11/
