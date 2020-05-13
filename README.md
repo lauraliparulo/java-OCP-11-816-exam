@@ -56,3 +56,6 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/St
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-7.html#jls-7.7.4
 https://docs.oracle.com/javase/tutorial/java/generics/subtyping.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html#unmodifiableList(java.util.List)
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/Function.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/Supplier.html
+
