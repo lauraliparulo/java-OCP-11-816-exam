@@ -47,3 +47,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Optional.
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/annotation/RetentionPolicy.html
 https://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.1
+https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.html
