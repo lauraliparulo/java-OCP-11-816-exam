@@ -67,3 +67,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/pa
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Console.html
 https://docs.oracle.com/javase/tutorial/i18n/locale/create.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/ExecutorService.html
+https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
