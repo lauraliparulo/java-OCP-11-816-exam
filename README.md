@@ -73,3 +73,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Serializabl
 https://docs.oracle.com/javase/tutorial/java/generics/wildcards.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#collect(java.util.stream.Collector)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Collectors.html#partitioningBy(java.util.function.Predicate)
+https://www.oracle.com/java/technologies/javase/seccodeguide.html#1
