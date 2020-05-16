@@ -82,3 +82,5 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Override.
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Path.html#getRoot()
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Set.html#copyOf(java.util.Collection)
 https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
+https://docs.oracle.com/javase/tutorial/jdbc/basics/prepared.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/PreparedStatement.html
