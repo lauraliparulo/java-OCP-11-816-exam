@@ -86,3 +86,4 @@ https://docs.oracle.com/javase/tutorial/jdbc/basics/prepared.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/PreparedStatement.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#reduce(U,java.util.function.BiFunction,java.util.function.BinaryOperator)
 https://docs.oracle.com/javase/tutorial/i18n/resbundle/list.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html#compute(K,java.util.function.BiFunction)
