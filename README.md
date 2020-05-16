@@ -81,3 +81,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/SuppressW
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Override.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Path.html#getRoot()
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Set.html#copyOf(java.util.Collection)
+https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
