@@ -8,6 +8,15 @@ public class Person {
 	public int age;
 	private String state;
 	
+	public Person(){
+		this("No name");
+	}
+	
+	public Person(String name){
+		this.firstName = name;
+	}
+
+	
 	public Person(String firstName,  int age) {
 //		super();
 		this.firstName = firstName;

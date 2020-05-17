@@ -2,6 +2,7 @@ package de.demo.streams.consumers;
 
 import java.util.Map;
 import java.util.function.BiConsumer;
+import java.util.function.Consumer;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -20,13 +21,13 @@ public class TestConsumer {
 			if ((Integer) i>25)
 				System.out.println(s);
 		};
-		
-		
 
 		people.forEach(consumer);
 		
-		
-		
+//		String s ="hello";
+//		Consumer<String> c = s -> s.toLowerCase();
+//			c = c.andThen(s -> System.out.println(s.toUpperCase()));
+//		c.accept("Java");
 		
 	}
 	

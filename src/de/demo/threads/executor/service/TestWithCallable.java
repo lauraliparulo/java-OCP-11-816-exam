@@ -14,6 +14,10 @@ public class TestWithCallable {
 		
 		Callable<String> task1 = ()-> "Task completed";
 		
+//		Runnable task = () -> {
+//			throw new Exception("Task 1");
+//		};
+		
 		Callable<String> task2 = ()-> {
 			throw new RuntimeException();
 		};
