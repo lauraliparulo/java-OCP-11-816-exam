@@ -94,3 +94,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeSet.h
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#move(java.nio.file.Path,java.nio.file.Path,java.nio.file.CopyOption...)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/CallableStatement.html
 https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
+https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html#datepattern
