@@ -97,3 +97,4 @@ https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49
 https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html#datepattern
 https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html
 https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
+https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.2
