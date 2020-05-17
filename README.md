@@ -89,3 +89,4 @@ https://docs.oracle.com/javase/tutorial/i18n/resbundle/list.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html#compute(K,java.util.function.BiFunction)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/StandardOpenOption.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ServiceLoader.html
+https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html#suppressed-exceptions
