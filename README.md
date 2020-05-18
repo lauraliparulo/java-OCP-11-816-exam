@@ -100,3 +100,4 @@ https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.2
 http://openjdk.java.net/projects/jigsaw/spec/sotms/#services
 https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
+https://docs.oracle.com/javase/tutorial/i18n/resbundle/concept.html
