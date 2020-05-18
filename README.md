@@ -107,3 +107,4 @@ https://www.oracle.com/java/technologies/javase/seccodeguide.html#2
 https://docs.oracle.com/javase/tutorial/java/generics/wildcardGuidelines.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/DriverManager.html#getConnection(java.lang.String,java.lang.String,java.lang.String)
 https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/LinkedHashSet.html
