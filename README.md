@@ -114,3 +114,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/St
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#intro
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/StandardOpenOption.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/LinkedHashMap.html
+https://docs.oracle.com/javase/specs/jls/se11/html/jls-7.html#jls-7.7.4
