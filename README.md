@@ -112,3 +112,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurren
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#max(java.util.Comparator)
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#intro
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/StandardOpenOption.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/LinkedHashMap.html
