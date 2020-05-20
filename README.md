@@ -17,6 +17,7 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - File
 - Collections: Deque
 - jdeps
+- annotations
 
 ### Online documentation
 https://docs.oracle.com/en/java/javase/11/
