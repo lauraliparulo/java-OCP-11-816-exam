@@ -125,3 +125,6 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/starvelive.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html
 https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html#datepattern
 oracle.com/technetwork/java/seccodeguide-139067.html#8
+https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
+
+https://docs.oracle.com/javase/tutorial/java/generics/subtyping.html
