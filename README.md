@@ -134,3 +134,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurren
 https://docs.oracle.com/javase/tutorial/java/generics/genTypeInference.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Externalizable.html
 http://openjdk.java.net/projects/jigsaw/spec/sotms/#bottom-up-migration
+https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#usage
