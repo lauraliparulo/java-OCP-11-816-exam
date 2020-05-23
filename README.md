@@ -136,3 +136,5 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Externaliza
 http://openjdk.java.net/projects/jigsaw/spec/sotms/#bottom-up-migration
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#usage
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.html
+https://docs.oracle.com/javase/tutorial/i18n/format/messageFormat.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/MessageFormat.html
