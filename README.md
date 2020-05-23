@@ -130,3 +130,4 @@ https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
 https://docs.oracle.com/javase/tutorial/java/generics/subtyping.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/DriverManager.html#getConnection(java.lang.String)
 https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/Future.html#get()
