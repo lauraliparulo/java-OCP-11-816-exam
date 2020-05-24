@@ -35,5 +35,20 @@ public class TestMap {
 		
 		System.out.println(map);
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }

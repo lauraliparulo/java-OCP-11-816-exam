@@ -12,6 +12,16 @@ public class TestFunc {
 	public static void main(String[] args) {
 		List<String> list = List.of("a", "b", "c");
 		System.out.println(calculate(list, l -> l.indexOf("b")));
+		
+		
+//		Function f1 = s -> ((String) s).toLowerCase();
+//		Function f2 = String::toUpperCase;
+//		
+//		Object o = f1.compose(f2).apply("Java");
+//		
+//		System.out.println(o);
+		
+		
 	}
 	
 }

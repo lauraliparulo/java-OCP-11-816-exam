@@ -2,6 +2,7 @@ package de.demo.streams.collectors;
 
 import java.util.Collection;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -14,5 +15,11 @@ public class TestWithCollectors {
 		List l4 = List.of(3,4,5);
 		Collection result = Stream.of(l1,l2,l3,l4).collect(Collectors.groupingBy(List::size, Collectors.counting()))
 				.values();
+		
+		
+		List list = List.of("a","b","cd","ed","ghij");
+		Map data = (Map) list.stream().collect(Collectors.groupingBy(String::length, Collectors.joining()));
+		
+		System.out.println(data.values());
 	}
 }
