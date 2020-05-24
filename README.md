@@ -149,3 +149,5 @@ https://docs.oracle.com/javase/tutorial/i18n/resbundle/list.html
 https://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Exception.html
 https://docs.oracle.com/javase/tutorial/java/generics/genTypeInference.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/SuppressWarnings.html
+https://docs.oracle.com/javase/specs/jls/se11/html/jls-9.html#jls-9.6.4.5
