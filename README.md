@@ -145,3 +145,4 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/PreparedStatement.html#execute()
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeMap.html#%3Cinit%3E(java.util.Map)
 https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
+https://docs.oracle.com/javase/tutorial/i18n/resbundle/list.html
