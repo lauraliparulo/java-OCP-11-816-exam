@@ -141,3 +141,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/MessageFo
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CopyOnWriteArrayList.html#iterator()
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/format/DateTimeFormatter.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/DoubleFunction.html
+https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html
