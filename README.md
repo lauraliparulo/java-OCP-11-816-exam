@@ -154,3 +154,4 @@ https://docs.oracle.com/javase/specs/jls/se11/html/jls-9.html#jls-9.6.4.5
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Path.html#relativize(java.nio.file.Path)
 https://docs.oracle.com/javase/tutorial/java/generics/unboundedWildcards.html
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#enable-disable
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collection.html#removeIf(java.util.function.Predicate)
