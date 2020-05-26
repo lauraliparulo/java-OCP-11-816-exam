@@ -158,3 +158,4 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collectio
 https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
 https://docs.oracle.com/javase/tutorial/java/annotations/repeating.html
 https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html
+https://docs.oracle.com/javase/tutorial/essential/exceptions/catchOrDeclare.html
