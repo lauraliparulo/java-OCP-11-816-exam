@@ -19,6 +19,7 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - jdeps
 - annotations
 - Arrays
+- Objects
 
 - Consumer, Supplier, BiConsumer(?)
 - Runnable, Callable
