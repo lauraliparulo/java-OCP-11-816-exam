@@ -18,7 +18,7 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - Collections: Deque
 - jdeps
 - annotations
-
+- Arrays
 
 - Consumer, Supplier, BiConsumer(?)
 - Runnable, Callable
