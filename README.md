@@ -19,6 +19,11 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - jdeps
 - annotations
 
+
+- Consumer, Supplier, BiConsumer(?)
+- Runnable, Callable
+- Function, BiFunction
+
 ### Online documentation
 https://docs.oracle.com/javase/tutorial/
 https://docs.oracle.com/en/java/javase/11/
