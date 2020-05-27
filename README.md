@@ -23,6 +23,7 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - Consumer, Supplier, BiConsumer(?)
 - Runnable, Callable
 - Function, BiFunction
+- flatmap
 
 ### Online documentation
 https://docs.oracle.com/javase/tutorial/
