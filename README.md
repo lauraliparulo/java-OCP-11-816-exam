@@ -20,7 +20,7 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - annotations
 - Arrays
 - Objects
-
+- COMPaRATOR 
 - Consumer, Supplier, BiConsumer(?)
 - Runnable, Callable
 - Function, BiFunction
