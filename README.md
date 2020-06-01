@@ -26,6 +26,8 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - Function, BiFunction
 - flatmap
 - IntStream
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
 
 
 ### Online documentation
@@ -33,6 +35,8 @@ https://docs.oracle.com/javase/tutorial/
 https://docs.oracle.com/en/java/javase/11/
 https://docs.oracle.com/javase/specs/jls/se11/html/index.html#
 http://openjdk.java.net/projects/jigsaw/spec/sotms/
+
+
 
 
 https://docs.oracle.com/javase/specs/jls/se11/html/index.html
