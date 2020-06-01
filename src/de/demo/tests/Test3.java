@@ -6,15 +6,15 @@ import java.util.stream.Stream;
 public class Test3 {
 
 	public static void main(String[] args) {
-		Stream stream = Stream.of(1,2,3,4);
-		
-		stream.map( i -> {
-			
-			Function<T, R> func = Data::new;
-			
-			return func.apply(i);
-			
-		}).forEach(Data::output);
+//		Stream stream = Stream.of(1,2,3,4);
+//		
+//		stream.map( i -> {
+//			
+//			Function<T, R> func = Data::new;
+//			
+//			return func.apply(i);
+//			
+//		}).forEach(Data::output);
 	}
 }
 
