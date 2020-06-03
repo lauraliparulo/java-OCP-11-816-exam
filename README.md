@@ -36,9 +36,13 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.ht
 
 
 ### Online documentation
+
 https://docs.oracle.com/javase/tutorial/
+
 https://docs.oracle.com/en/java/javase/11/
+
 https://docs.oracle.com/javase/specs/jls/se11/html/index.html#
+
 http://openjdk.java.net/projects/jigsaw/spec/sotms/
 
 
