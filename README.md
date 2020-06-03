@@ -31,7 +31,7 @@ All the methods, their parameters, the return types and exceptions thrown. Learn
 - Input, Outputstream
 - Multithreading , fork/join / wait/ notify, Blocking queue
 - java.time
-
+- ResourceBundle
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
 
