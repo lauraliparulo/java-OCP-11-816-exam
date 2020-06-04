@@ -36,6 +36,11 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.ht
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
 
 
+----------------------------------------------------------------------
+OBJECTIVE: Secure Coding in Java SE Application
+https://www.oracle.com/java/technologies/javase/seccodeguide.html
+----------------------------------------------------------------------
+
 ### Online documentation
 
 https://docs.oracle.com/javase/tutorial/
