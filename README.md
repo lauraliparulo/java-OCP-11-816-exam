@@ -7,6 +7,8 @@ some demos to get ready for the second part of the Java Certification, OCP Java 
 It´s important to inspect the javadocs carefully. 
 All the methods, their parameters, the return types and exceptions thrown. Learn them carefully. Make some demos too.
 
+### Objectives:
+https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
 
 ## WORK IN PROGRESS
 ### Important classes you have to know to pass the exam
