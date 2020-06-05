@@ -8,7 +8,10 @@ It´s important to inspect the javadocs carefully.
 All the methods, their parameters, the return types and exceptions thrown. Learn them carefully. Make some demos too.
 
 ### Objectives:
+
 https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
+
+
 
 ## WORK IN PROGRESS
 ### Important classes you have to know to pass the exam
@@ -39,10 +42,15 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.ht
 
 
 ----------------------------------------------------------------------
-OBJECTIVE: Secure Coding in Java SE Application
+### OBJECTIVE: Secure Coding in Java SE Application
 https://www.oracle.com/java/technologies/javase/seccodeguide.html
 ----------------------------------------------------------------------
-
+### OBJECTIVE: Localization
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Locale.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ResourceBundle.html
+https://docs.oracle.com/javase/tutorial/i18n/format/simpleFormat.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/format/DateTimeFormatter.html
+----------------------------------------------------------------------
 ### Online documentation
 
 https://docs.oracle.com/javase/tutorial/
@@ -127,7 +135,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeSet.h
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#move(java.nio.file.Path,java.nio.file.Path,java.nio.file.CopyOption...)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/CallableStatement.html
 https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
-https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html#datepattern
+
 https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html
 https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.2
@@ -155,7 +163,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/Connection.
 https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
 https://docs.oracle.com/javase/tutorial/essential/concurrency/starvelive.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html
-https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html#datepattern
+
 https://oracle.com/technetwork/java/seccodeguide-139067.html#8
 https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
 
@@ -171,7 +179,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.h
 https://docs.oracle.com/javase/tutorial/i18n/format/messageFormat.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/MessageFormat.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CopyOnWriteArrayList.html#iterator()
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/format/DateTimeFormatter.html
+
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/DoubleFunction.html
 https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/PreparedStatement.html#execute()
@@ -179,7 +187,6 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeMap.h
 https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
 https://docs.oracle.com/javase/tutorial/i18n/resbundle/list.html
 https://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Exception.html
 https://docs.oracle.com/javase/tutorial/java/generics/genTypeInference.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/SuppressWarnings.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-9.html#jls-9.6.4.5
