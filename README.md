@@ -14,29 +14,29 @@ https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
 
 
 ## WORK IN PROGRESS
-### Important classes you have to know to pass the exam
+### Important classes you have to know well to pass the exam
 - Collectors
 - Stream
 - ExecutorService
 - Path && Paths
 - File
 - Collections: Deque
-- jdeps
-- annotations
 - Arrays
 - Objects
-- COMPaRATOR 
-- Consumer, Supplier, BiConsumer(?)
+- Comparator 
+- Consumer, Supplier, BiConsumer,etc
 - Runnable, Callable
 - Function, BiFunction
-- flatmap
 - IntStream
 - Printstream
 - DecimalFormat
 - Input, Outputstream
 - Multithreading , fork/join / wait/ notify, Blocking queue
-- java.time
-- ResourceBundle
+
+
+- reduce
+- flatmap
+
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
 
@@ -53,6 +53,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Locale.ht
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ResourceBundle.html
 https://docs.oracle.com/javase/tutorial/i18n/format/simpleFormat.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/format/DateTimeFormatter.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/package-summary.html
 
 ----------------------------------------------------------------------
 ### Online documentation
