@@ -7,10 +7,15 @@ some demos to get ready for the second part of the Java Certification, OCP Java 
 It´s important to inspect the javadocs carefully. 
 All the methods, their parameters, the return types and exceptions thrown. Learn them carefully. Make some demos too.
 
-### Objectives:
+### Online documentation
 
-https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
+https://docs.oracle.com/javase/tutorial/
 
+https://docs.oracle.com/en/java/javase/11/
+
+https://docs.oracle.com/javase/specs/jls/se11/html/index.html#
+
+http://openjdk.java.net/projects/jigsaw/spec/sotms/
 
 
 ## WORK IN PROGRESS
@@ -40,6 +45,11 @@ https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
 
+----------------------------------------------------------------------------------------------
+
+## Objectives:
+
+https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
 
 ----------------------------------------------------------------------
 
@@ -66,27 +76,20 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/St
 
 
 ### Objective: Migration to a Modular Application
+https://docs.oracle.com/en/java/javase/11/migrate/index.html
 https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
-- migration
+
+
+### Built-in Functional Interfaces
+Use interfaces from the java.util.function package
+Use core functional interfaces including Predicate, Consumer, Function and Supplier
+Use primitive and binary variations of base interfaces of java.util.function package
 
 ----------------------------------------------------------------------
 
 ### Online documentation
 
-https://docs.oracle.com/javase/tutorial/
 
-https://docs.oracle.com/en/java/javase/11/
-
-https://docs.oracle.com/javase/specs/jls/se11/html/index.html#
-
-http://openjdk.java.net/projects/jigsaw/spec/sotms/
-
-
-
-
-https://docs.oracle.com/javase/specs/jls/se11/html/index.html
-
-http://openjdk.java.net/projects/jigsaw/spec/sotms/#services
 
 https://docs.oracle.com/javase/tutorial/java/generics/index.html
 https://docs.oracle.com/javase/tutorial/java/generics/restrictions.html
