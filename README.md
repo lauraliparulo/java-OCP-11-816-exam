@@ -81,7 +81,7 @@ https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49
 
 
 ### Built-in Functional Interfaces
-Use interfaces from the java.util.function package
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html
 Use core functional interfaces including Predicate, Consumer, Function and Supplier
 Use primitive and binary variations of base interfaces of java.util.function package
 
