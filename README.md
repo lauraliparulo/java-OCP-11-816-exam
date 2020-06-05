@@ -42,14 +42,18 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.ht
 
 
 ----------------------------------------------------------------------
+
 ### OBJECTIVE: Secure Coding in Java SE Application
 https://www.oracle.com/java/technologies/javase/seccodeguide.html
+
 ----------------------------------------------------------------------
+
 ### OBJECTIVE: Localization
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Locale.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ResourceBundle.html
 https://docs.oracle.com/javase/tutorial/i18n/format/simpleFormat.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/format/DateTimeFormatter.html
+
 ----------------------------------------------------------------------
 ### Online documentation
 
