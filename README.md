@@ -37,13 +37,8 @@ http://openjdk.java.net/projects/jigsaw/spec/sotms/
 - DecimalFormat
 - Input, Outputstream
 - Multithreading , fork/join / wait/ notify, Blocking queue
-
-
 - reduce
 - flatmap
-
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
 
 ----------------------------------------------------------------------------------------------
 
@@ -164,6 +159,8 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Serializabl
 https://docs.oracle.com/javase/tutorial/java/generics/wildcards.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/SuppressWarnings.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Override.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ServiceLoader.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html#suppressed-exceptions
