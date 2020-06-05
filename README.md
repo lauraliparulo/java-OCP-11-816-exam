@@ -161,9 +161,7 @@ https://docs.oracle.com/javase/specs/jls/se11/html/jls-15.html#jls-15.27
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Console.html
 https://docs.oracle.com/javase/tutorial/i18n/locale/create.html
 
-https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Serializable.html
-https://docs.oracle.com/javase/tutorial/java/generics/wildcards.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/SuppressWarnings.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Override.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
@@ -171,21 +169,16 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.ht
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ServiceLoader.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html#suppressed-exceptions
-https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.2
 http://openjdk.java.net/projects/jigsaw/spec/sotms/#the-unnamed-module
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Externalizable.html
-
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#intro
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-7.html#jls-7.7.4
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Externalizable.html
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#usage
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/MessageFormat.html
 https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-9.html#jls-9.6.4.5
-
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#enable-disable
-
 https://docs.oracle.com/javase/tutorial/java/annotations/repeating.html
 https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/catchOrDeclare.html
