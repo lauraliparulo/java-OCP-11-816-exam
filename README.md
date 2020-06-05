@@ -1,24 +1,19 @@
-
 # java-OCP-11-816-exam
 some demos to get ready for the second part of the Java Certification, OCP Java 11 Part 2
 
 
 ### Lessons learned from OCP-11-815
+
 It´s important to inspect the javadocs carefully. 
 All the methods, their parameters, the return types and exceptions thrown. Learn them carefully. Make some demos too.
 
 ### Online documentation
 
 https://docs.oracle.com/javase/tutorial/
-
 https://docs.oracle.com/en/java/javase/11/
-
 https://docs.oracle.com/javase/specs/jls/se11/html/index.html#
-
 http://openjdk.java.net/projects/jigsaw/spec/sotms/
 
-
-## WORK IN PROGRESS
 ### Important classes you have to know well to pass the exam
 - Collectors
 - Stream
@@ -43,7 +38,6 @@ http://openjdk.java.net/projects/jigsaw/spec/sotms/
 ----------------------------------------------------------------------------------------------
 
 ## Objectives:
-
 https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
 
 ----------------------------------------------------------------------
@@ -66,24 +60,24 @@ https://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html
 
 ----------------------------------------------------------------------
 
-### OBJECTIVEs: Lambda Operations on Streams, Parallel Streams, Services in a Modular Application
+### OBJECTIVE: Lambda Operations on Streams, Parallel Streams, Services in a Modular Application
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/IntStream.html#sum()
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Collectors.html#counting()
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Collectors.html#partitioningBy(java.util.function.Predicate)
 
-### Objective: Migration to a Modular Application
+### OBJECTIVE: Migration to a Modular Application
 https://docs.oracle.com/en/java/javase/11/migrate/index.html
 https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
 http://openjdk.java.net/projects/jigsaw/spec/sotms/#bottom-up-migration
 
-### Built-in Functional Interfaces
+### OBJECTIVE: Built-in Functional Interfaces
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html
 Use core functional interfaces including Predicate, Consumer, Function and Supplier
 Use primitive and binary variations of base interfaces of java.util.function package
 
-### JDBC
+### OBJECTIVE: JDBC
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/Connection.html
 https://docs.oracle.com/javase/tutorial/jdbc/basics/processingsqlstatements.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.html
@@ -97,7 +91,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/DriverManag
 https://docs.oracle.com/javase/tutorial/jdbc/basics/retrieving.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/ExecutorService.html
 
-### Threads 
+### OBJECTIVE: Threads 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CopyOnWriteArrayList.html#iterator()
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/Future.html#get()
 https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html
@@ -132,8 +126,7 @@ https://docs.oracle.com/javase/tutorial/java/generics/unboundedWildcards.html
 https://docs.oracle.com/javase/tutorial/java/generics/wildcardGuidelines.html
 
 
-# Objective: NIO
-
+### OBJECTIVE: NIO
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/StandardOpenOption.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#walk(java.nio.file.Path,java.nio.file.FileVisitOption...)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#move(java.nio.file.Path,java.nio.file.Path,java.nio.file.CopyOption...)
@@ -142,7 +135,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Path.
 
 ----------------------------------------------------------------------
 
-### Objectives: others
+### OBJECTIVEs: others
 
 https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
