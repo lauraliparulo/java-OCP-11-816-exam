@@ -128,6 +128,9 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Set.html#
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html#compute(K,java.util.function.BiFunction)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeSet.html#%3Cinit%3E(java.util.Collection)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html#unmodifiableList(java.util.List)
+https://docs.oracle.com/javase/tutorial/java/generics/unboundedWildcards.html
+https://docs.oracle.com/javase/tutorial/java/generics/wildcardGuidelines.html
+
 
 # Objective: NIO
 
@@ -142,8 +145,12 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Path.
 ### Objectives: others
 
 https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html
-https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
+https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
+https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
+
+https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-15.html#jls-15.27
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Optional.html#ifPresentOrElse(java.util.function.Consumer,java.lang.Runnable)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/annotation/RetentionPolicy.html
@@ -166,10 +173,9 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ServiceLo
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html#suppressed-exceptions
 https://docs.oracle.com/javase/tutorial/java/generics/upperBounded.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.2
-https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
 http://openjdk.java.net/projects/jigsaw/spec/sotms/#the-unnamed-module
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Externalizable.html
-https://docs.oracle.com/javase/tutorial/java/generics/wildcardGuidelines.html
+
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#intro
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-7.html#jls-7.7.4
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Externalizable.html
@@ -177,9 +183,9 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#usag
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/MessageFormat.html
 https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-9.html#jls-9.6.4.5
-https://docs.oracle.com/javase/tutorial/java/generics/unboundedWildcards.html
+
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#enable-disable
-https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
 https://docs.oracle.com/javase/tutorial/java/annotations/repeating.html
 https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/catchOrDeclare.html
