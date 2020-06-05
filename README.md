@@ -59,7 +59,10 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/package-s
 
 ### OBJECTIVE: Streams
 
-
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#max(java.util.Comparator)
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#reduce(U,java.util.function.BiFunction,java.util.function.BinaryOperator)
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#reduce(T,java.util.function.BinaryOperator)
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#collect(java.util.stream.Collector)
 
 ----------------------------------------------------------------------
 ### Online documentation
@@ -104,7 +107,7 @@ https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.1
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#walk(java.nio.file.Path,java.nio.file.FileVisitOption...)
 https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#reduce(T,java.util.function.BinaryOperator)
+
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-7.html#jls-7.7.4
 https://docs.oracle.com/javase/tutorial/java/generics/subtyping.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collections.html#unmodifiableList(java.util.List)
@@ -123,7 +126,7 @@ https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Serializable.html
 https://docs.oracle.com/javase/tutorial/java/generics/wildcards.html
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#collect(java.util.stream.Collector)
+
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Collectors.html#partitioningBy(java.util.function.Predicate)
 https://www.oracle.com/java/technologies/javase/seccodeguide.html#1
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html
@@ -136,7 +139,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Set.html#
 https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
 https://docs.oracle.com/javase/tutorial/jdbc/basics/prepared.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/PreparedStatement.html
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#reduce(U,java.util.function.BiFunction,java.util.function.BinaryOperator)
+
 https://docs.oracle.com/javase/tutorial/i18n/resbundle/list.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html#compute(K,java.util.function.BiFunction)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/StandardOpenOption.html
@@ -161,7 +164,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/DriverManag
 https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/LinkedHashSet.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CopyOnWriteArrayList.html#iterator()
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#max(java.util.Comparator)
+
 https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#intro
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/StandardOpenOption.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/LinkedHashMap.html
