@@ -64,7 +64,13 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/St
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#reduce(T,java.util.function.BinaryOperator)
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/stream/Stream.html#collect(java.util.stream.Collector)
 
+
+### Objective: Migration to a Modular Application
+https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
+- migration
+
 ----------------------------------------------------------------------
+
 ### Online documentation
 
 https://docs.oracle.com/javase/tutorial/
@@ -106,7 +112,7 @@ https://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.1
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#walk(java.nio.file.Path,java.nio.file.FileVisitOption...)
-https://docs.oracle.com/en/java/javase/11/tools/jdeps.html#GUID-A543FEBE-908A-49BF-996C-39499367ADB4
+
 
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-7.html#jls-7.7.4
 https://docs.oracle.com/javase/tutorial/java/generics/subtyping.html
@@ -193,7 +199,6 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/ResultSet.h
 https://docs.oracle.com/javase/tutorial/i18n/format/messageFormat.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/MessageFormat.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CopyOnWriteArrayList.html#iterator()
-
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/DoubleFunction.html
 https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/PreparedStatement.html#execute()
