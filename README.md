@@ -1,6 +1,11 @@
 # java-OCP-11-816-exam
 some demos to get ready for the second part of the Java Certification, OCP Java 11 Part 2
 
+## TODO
+- docs lesen L
+- kapitel jdbc, multitrhreading and concurrency M
+- code G 
+- mocks V
 
 ### Lessons learned from OCP-11-815
 
