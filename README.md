@@ -12,7 +12,6 @@ some demos to get ready for the second part of the Java Certification, OCP Java 
 -security
 - collection partitioning
 -sql execute and then more
-- 
 
 ### Lessons learned from OCP-11-815
 
