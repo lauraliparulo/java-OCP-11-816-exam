@@ -13,6 +13,10 @@ some demos to get ready for the second part of the Java Certification, OCP Java 
 - collection partitioning
 -sql execute and then more
 
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/Format.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ResourceBundle.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Locale.html#FRENCH
+
 ### Lessons learned from OCP-11-815
 
 It´s important to inspect the javadocs carefully. 
