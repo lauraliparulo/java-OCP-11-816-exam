@@ -6,12 +6,11 @@ some demos to get ready for the second part of the Java Certification, OCP Java 
 - kapitel jdbc, multitrhreading and concurrency M
 - code G 
 - mocks V
-
+- method reference supplier runnable
 - comparator vs comparable
-- locale
--security
+- security
 - collection partitioning
--sql execute and then more
+-sql execute and more
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/Format.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ResourceBundle.html
