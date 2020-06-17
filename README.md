@@ -3,14 +3,14 @@ some demos to get ready for the second part of the Java Certification, OCP Java 
 
 ## TODO
 - docs lesen L
-- kapitel jdbc, multitrhreading and concurrency M
-- code G 
+- security  M  D
+- collection partitioning (streams)
+- sql execute and more with derby D
+- modularity F
+- kapitel jdbc, multitrhreading and concurrency M - D
+- code 
 - mocks V
-- method reference supplier runnable
-- comparator vs comparable
-- security
-- collection partitioning
--sql execute and more
+
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/Format.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ResourceBundle.html
