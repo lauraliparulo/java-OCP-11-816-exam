@@ -8,8 +8,9 @@ some demos to get ready for the second part of the Java Certification, OCP Java 
 - sql execute and more with derby D
 - modularity F
 - kapitel jdbc, multitrhreading and concurrency M - D
-- code 
-- mocks V
+- NIO M
+- code GVSD
+- mocks GVSD
 
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/Format.html
