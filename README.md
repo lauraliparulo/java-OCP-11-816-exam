@@ -2,6 +2,11 @@
 some demos to get ready for the second part of the Java Certification, OCP Java 11 Part 2
 
 ## TODO
+- jdkinternals
+- executorservice invoke all with callable?
+- 
+
+
 - docs lesen L
 - security  M  D
 - collection partitioning (streams)
