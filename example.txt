@@ -1,2 +1,0 @@
-1: this is a strng to file test 
-2: second line
