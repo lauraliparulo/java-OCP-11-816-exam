@@ -1,64 +1,35 @@
 # java-OCP-11-816-exam
 some demos to get ready for the second part of the Java Certification, OCP Java 11 Part 2
+I have passed in on August, the 6th, 2020. Before the book has been published :-D
 
-## TODO
-- jdkinternals
-- executorservice invoke all with callable?
-- 
-
-
-- docs lesen L
-- security  M  D
-- collection partitioning (streams)
-- sql execute and more with derby D
-- modularity F
-- kapitel jdbc, multitrhreading and concurrency M - D
-- NIO M
-- code GVSD
-- mocks GVSD
-
-
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/Format.html
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ResourceBundle.html
-https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Locale.html#FRENCH
-
-### Lessons learned from OCP-11-815
-
+### Lessons learned 
 It´s important to inspect the javadocs carefully. 
 All the methods, their parameters, the return types and exceptions thrown. Learn them carefully. Make some demos too.
 
+jdes, jdkinternal
+
 ### Online documentation
-
 https://docs.oracle.com/javase/tutorial/
-
 https://docs.oracle.com/en/java/javase/11/
-
 https://docs.oracle.com/javase/specs/jls/se11/html/index.html#
-
 http://openjdk.java.net/projects/jigsaw/spec/sotms/
 
-### Important classes you have to know well to pass the exam
-- Collectors
+### Important classes and interfaces you have to know well to pass the exam
 - Stream
-- ExecutorService
+- Collectors
 - Path && Paths
-- File
-- Collections: Deque
+- File & Files
+- Collections:  Deque, ArrayDeque, LinkedList, Map, Hashmap, Set, etc.
 - Arrays
 - Objects
-- Comparator 
+- Comparator, Comparable
 - Consumer, Supplier, BiConsumer,etc
-- Runnable, Callable
-- Function, BiFunction
-- IntStream
-- Printstream
-- DecimalFormat
+- Runnable, Callable,ExecutorService, CyclicBarrier
+- Function, BiFunction, etc
+- IntStream, Doublestream
+- Printstream, Filestream
+- DecimalFormat, etc.
 - Input, Outputstream
-- Multithreading , fork/join / wait/ notify, Blocking queue
-- reduce
-- flatmap
-
-----------------------------------------------------------------------------------------------
 
 ## Objectives:
 https://education.oracle.com/de/java-se-11-programmer-ii/pexam_1Z0-816
@@ -164,8 +135,6 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
-
-
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-15.html#jls-15.27
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Optional.html#ifPresentOrElse(java.util.function.Consumer,java.lang.Runnable)
@@ -176,13 +145,11 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Assertion
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-15.html#jls-15.27
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Console.html
 https://docs.oracle.com/javase/tutorial/i18n/locale/create.html
-
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Serializable.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/SuppressWarnings.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Override.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Arrays.html
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html
-
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ServiceLoader.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html#suppressed-exceptions
 https://docs.oracle.com/javase/specs/jls/se11/html/jls-8.html#jls-8.9.2
@@ -198,3 +165,8 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html#enab
 https://docs.oracle.com/javase/tutorial/java/annotations/repeating.html
 https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/catchOrDeclare.html
+
+and more...
+
+
+Good luck!
