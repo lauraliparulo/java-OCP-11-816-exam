@@ -1,6 +1,8 @@
 # java-OCP-11-816-exam
 some demos to get ready for the second part of the Java Certification, OCP Java 11 Part 2
-I have passed in on August, the 6th, 2020. Before the book has been published :-D
+
+
+I  passed it on August, the 6th, 2020. Before the book was been published :-D
 
 ### Lessons learned 
 It´s important to inspect the javadocs carefully. 
